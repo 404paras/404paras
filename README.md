@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @404paras
 - 👀 I’m interested in project based learning.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on Java projects.
+- 🌱 I’m currently learning Web Dev Technologies.
+- 💞️ I’m looking to collaborate on Web Dev projects.
 - 📫 How to reach me? Simply mail me..
 
 <!---
